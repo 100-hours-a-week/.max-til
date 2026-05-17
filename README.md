@@ -10,4 +10,4 @@ Tistory 클릭 시 해당 관련 정리한 Tistory 글로 이동
 ## [ 5월 셋째주, 1주차 ] - Git & Java 기초
 ☑️ [26.05.14](./May/2026-05-14.md) - [ Git, GitHub, 클래스 상속 ] <br>
 ☑️ [26.05.15](./May/2026-05-15.md) - [ 객체지향, 컬렉션, 스레드 등 ] <br>
-☑️ [26.05.16](./May/2026-05-16.md) - [ 예외처리, throw, throws, try-catch 등 ] <br>
+☑️ [26.05.16](./May/2026-05-16.md) - [ 예외처리, throw, throws, try-catch 등 ] -[추가] [블로그 정리](https://ich053012.tistory.com/8) <br>
