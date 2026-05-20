@@ -15,3 +15,4 @@ Tistory 클릭 시 해당 관련 정리한 Tistory 글로 이동
 ## [ 5월 넷째주, 2주차 ] - 웹의 구조 및 이해
 ☑️ [26.05.18](./May/2026-05-18.md) - [ Spring, HTTP 등] <br>
 ☑️ [26.05.19](./May/2026-05-19.md) - [ Spring, MVC, Handler Mapiing, DispatcherServlet 등] <br>
+☑️ [26.05.20](./May/2026-05-20.md) - [ OOP, SOLID, JVM 등] <br>
