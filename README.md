@@ -17,3 +17,6 @@ Tistory 클릭 시 해당 관련 정리한 Tistory 글로 이동
 ☑️ [26.05.19](./May/2026-05-19.md) - [ Spring, MVC, Handler Mapiing, DispatcherServlet 등] <br>
 ☑️ [26.05.20](./May/2026-05-20.md) - [ OOP, SOLID, JVM 등] - [Tistory](https://ich053012.tistory.com/entry/JVM) <br> 
 ☑️ [26.05.21](./May/2026-05-21.md) - [ 인증, 인가, 쿠키, 세션 등] <br>
+
+## [ 5월 다섯째주, 3주차 ] - 웹의 구조 및 이해
+☑️ [26.05.26](./May/2026-05-26.md) - [ 데이터베이스, ERD 등] <br>
