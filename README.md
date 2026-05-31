@@ -20,3 +20,5 @@ Tistory 클릭 시 해당 관련 정리한 Tistory 글로 이동
 
 ## [ 5월 다섯째주, 3주차 ] - 웹의 구조 및 이해
 ☑️ [26.05.26](./May/2026-05-26.md) - [ 데이터베이스, ERD 등] <br>
+☑️ [26.05.27](./May/2026-05-27.md) - [ Authorization,Bearer,Access Token, Refresh Token 등] <br>
+☑️ [26.05.28](./May/2026-05-28.md) - [ NoSQL,캐시 등] <br>
