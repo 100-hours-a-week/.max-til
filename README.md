@@ -18,7 +18,12 @@ Tistory 클릭 시 해당 관련 정리한 Tistory 글로 이동
 ☑️ [26.05.20](./May/2026-05-20.md) - [ OOP, SOLID, JVM 등] - [Tistory](https://ich053012.tistory.com/entry/JVM) <br> 
 ☑️ [26.05.21](./May/2026-05-21.md) - [ 인증, 인가, 쿠키, 세션 등] -  [Tistry](https://ich053012.tistory.com/entry/%EC%BF%A0%ED%82%A4%EC%84%B8%EC%85%98%ED%86%A0%ED%81%B0-2%ED%8E%B8%EC%BF%A0%ED%82%A4)<br>
 
-## [ 5월 다섯째주, 3주차 ] - 웹의 구조 및 이해
+## [ 5월 다섯째주, 3주차 ] - Database, 인증&인가
 ☑️ [26.05.26](./May/2026-05-26.md) - [ 데이터베이스, ERD 등] <br>
 ☑️ [26.05.27](./May/2026-05-27.md) - [ Authorization,Bearer,Access Token, Refresh Token 등] <br>
 ☑️ [26.05.28](./May/2026-05-28.md) - [ NoSQL,캐시 등] <br>
+
+## [ 6월 첫째주, 4주차 ] - Spring Boot ORM
+☑️ [26.06.01](./June/2026-06-01.md) - [ JPA, 영속성 콘텍스트 등] <br>
+☑️ [26.06.02](./June/2026-06-02.md) - [ Spring Data JPA,JPQL,QueryDSL 등] <br>
+☑️ [26.06.04](./June/2026-06-04.md) - [ 파일처리,예외처리,필터,인터셉터 등] <br>
